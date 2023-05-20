@@ -5,20 +5,14 @@
 
 ## Cloud 시험에 자주 나오는 영단어 정리
 <br>
-Recommended Practice 권장 사례
-
-optimize 최적화
-
-disruption/outage 중단
-
+Recommended Practice 권장 사례<br>
+optimize 최적화<br>
+disruption/outage 중단<br><br>
 approximately 대략
-
+approximately 대략
 diagnose 진단하다
-
 run out of 부족
-
 without compromising 손상 없이
-
 adversely 부정적으로
 traverse 통과하다
 failovers 장애 조치
