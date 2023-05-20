@@ -3,8 +3,63 @@
 <br>
 <br>
 
-## Cloud 시험에 자주 나오는 영단어 
+## Cloud 시험에 자주 나오는 영단어 정리
 <br>
-Recommended Practice 권장 사례 , optimize 최적화, disruption/outage 중단,  approximately 대략, diagnose 진단하다, run out of 부족, remediate 해결하다. without compromising 손상 없이 , adversely 부정적으로, instrument 계측, traverse 통과하다., failovers 장애 조치, proceeding 절차, retain 유지하다. Auditor 감사관, portability 이식성,  pre-emptible(preempted) 선점형, indicator 지표, disaster 재난, configure 구성하다. Sanitizing 삭제하는, sustained 지속적인, committed 약정의, verify 확인하다. , degrade 성능 저하, intersection 교차, 교집합, make sure 확인하다., comply with 준수하다. , evaluate 평가하다, incorporate 통합하다.,batch 일괄, encrypted 암호화, decryption 복호화, real- time 실시간, ingest 수집, aggregate 집계, reliably 안정적으로, post- mortem 사후분석, redundant 중복의, resilience 회복력, engage 관계를 맺다., over time 시간이 지날수록 Truncated 잘린, native capabilities 기본 기능, dedicated 전용의, populate 채우다. Assess 평가하다. subset 부분 집합, triage 분류, upon ~할시, accommodate 설계하다. Autonomously 자율적으로 enforce 시행하다 retrieving 검색, proactive 사전의, overlap 겹치다 approval 승인, particular 특정한, validate 검증하다. , incompatible 호환되지 않는 elaboration 동화, bandwidth 대역폭, identical 동일한, certain threshold 특정 임계값, third-party 타사, origin 출처, load 부하, vulnerability취약점 concurrently 동시에 entry 항목 objective 목표, manually 수동으로 compliance 규정준수prohibit 금지하다.materialized 구체화된suspect 의심하다interact 상호작요하다. underlying 밑에 있는 uptime 가동시간 via ~ 통해 reference 참조하다. privilege 권한 duty 업무 administration 관리 duplicate 중복의 predictive capability 예측 기능 penetration 침투 interpret 해석하다. idle 유휴상태의quota 할당량 immutable 변경할 수 없는 refer to 인용하다 time series 시계열 transactional 트랜잭션 in sequence 순서대로 parallel 병렬의 streamline 간소화하다. compatibility 호환성 leverage 영향력, 활용 invoke 호출하다.  tow-cost 비용이 많이 드는 infrequent 드문, separate 별도의, revision 수정, adjust 조정하다. promote 승진하다. / remote 원격의 expedite 촉진하다. credentials 자격증명 advocate 옹호하다. permanently영구적으로 archive 보관소 Revert 되돌리다. cryptography 암호화 De-identify 익명화 hierarchically 계층적으로 inherited 상속된 incur 발생하다. lag 지연 omit 생략하다. Whenever 언제든지 convince 납득시키다. worthwhile 가치 leadership 경영진 decouple 분리하다.  intensive 집약적인 compress 압축하다.  prefix 접두사respective 각각 constraints 제약 in charge of 담당하는 significant 중요한 adhere 준수하다. agility 민첩
-
+Recommended Practice 권장 사례
+optimize 최적화
+disruption/outage 중단
+approximately 대략
+diagnose 진단하다
+run out of 부족
+without compromising 손상 없이
+adversely 부정적으로
+traverse 통과하다
+failovers 장애 조치
+retain 유지하다
+portability 이식성
+pre-emptible(preempted) 선점형
+indicator 지표
+disaster 재난
+degrade 성능 저하
+intersection 교차, 교집합
+batch 일괄
+encrypted 암호화
+decryption 복호화
+real- time 실시간
+ingest 수집
+aggregate 집계
+post- mortem 사후분석
+redundant 중복의
+resilience 회복력
+native capabilities 기본 기능
+dedicated 전용의
+subset 부분 집합
+triage 분류
+upon ~할시
+accommodate 설계하다
+Autonomously 자율적으로
+retrieving 검색
+proactive 사전의
+overlap 겹치다
+incompatible 호환되지 않는
+bandwidth 대역폭
+certain threshold 특정 임계값
+third-party 타사
+load 부하
+vulnerability취약점 
+manually 수동으로 
+compliance 규정준수
+uptime 가동시간 
+privilege 권한
+administration 관리
+idle 유휴상태의
+quota 할당량
+immutable 변경할 수 없는
+time series 시계열
+transactional 트랜잭션
+parallel 병렬의
+streamline 간소화하다
+compatibility 호환성
+De-identify 익명화
+hierarchically 계층적으로
 
