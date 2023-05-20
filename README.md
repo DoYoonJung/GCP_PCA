@@ -12,9 +12,13 @@ optimize 최적화
 disruption/outage 중단
 
 approximately 대략
+
 diagnose 진단하다
+
 run out of 부족
+
 without compromising 손상 없이
+
 adversely 부정적으로
 traverse 통과하다
 failovers 장애 조치
