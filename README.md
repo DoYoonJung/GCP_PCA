@@ -6,8 +6,11 @@
 ## Cloud 시험에 자주 나오는 영단어 정리
 <br>
 Recommended Practice 권장 사례
+
 optimize 최적화
+
 disruption/outage 중단
+
 approximately 대략
 diagnose 진단하다
 run out of 부족
