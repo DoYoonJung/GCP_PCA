@@ -63,3 +63,4 @@ compatibility 호환성<br>
 De-identify 익명화<br>
 hierarchically 계층적으로<br>
 
+## Cloud 시험에 자주 나오는 용어 간략 정리
